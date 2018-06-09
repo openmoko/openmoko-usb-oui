@@ -1,0 +1,15 @@
+# Openmoko has been assigned the OUI (Organizationally Unique Identifier) 00-1F-11. This page lists allocations we have made under this OUI.
+# ==MAC addresses==
+# MAC addresses are of the form xx-xx-xx-yy-yy-yy where xx-xx-xx is the OUI (00-1F-11) and yy-yy-yy is an identifier assigned by the owner of the OUI.
+First identifier | Last identifier | Date | Purpose
+00-00-00 | 00-FF-FF | 2008-02-27 | Reserved for R&D use
+01-00-00 | 01-27-FF | 2008-02-27 | Factory allocation for GTA02 MP start
+01-28-00 | 01-55-FF | 2008-07-07 | Factory allocation for GTA02 production
+01-56-00 | 01-79-FF | 2008-08-21 | Factory allocation for GTA02 production
+02-00-00 | 02-03-FF | 2012-05-23 | [http://opencores.org/or1k/Ordb2a-ep4ce22 OpenRISC Ordb2a-ep4ce22 Development Board]
+02-04-00 | 02-14-FF | 2012-05-25 | [http://smoothieware.org/smoothieboard Smoothieboard]
+02-15-00 | 02-18-ff | 2013-01-23 | [http://www.kosagi.com/w/index.php?title=Novena_Main_Page Novena ARM Netbook]
+02-19-00 | 02-28-ff | 2013-02-03 | [https://code.google.com/p/umtrx/ UmTRX is a dual-channel wide-band SDR transceiver]
+02-29-00 | 02-38-ff | 2014-02-10 | [http://www.kosagi.com/w/index.php?title=Novena_Main_Page Novena ARM Netbook]
+02-39-00 | 02-39-ff | 2014-01-28 | [https://ieee1394.wiki.kernel.org/index.php/Main_Page Linux Kernel FireWire (IEEE-1394) implementation]
+02-3a-00 | 02-59-ff | 2015-08-10 | [https://github.com/tessel/project Tessel 2 IoT and robotics development platform]

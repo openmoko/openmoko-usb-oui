@@ -1,0 +1,271 @@
+Vendor ID | Product ID | Description
+0x1d50 | 0x1db5 | [http://www.almesberger.net/misc/idbg/ IDBG] in DFU mode
+0x1d50 | 0x1db6 | [http://www.almesberger.net/misc/idbg/ IDBG] in normal mode
+0x1d50 | 0x4xxx | Reserved for the [http://osmocom.org/ Osmocom] project
+0x1457 / 0x1d50 | 0x5117 | Neo1973/FreeRunner kernel usbnet (g_ether, CDC Ethernet) Mode
+0x1457 / 0x1d50 | 0x5118 | Debug Board (FT2232D) for Neo1973/FreeRunner
+0x1457 / 0x1d50 | 0x5119 | Neo1973/FreeRunner u-boot usbtty CDC ACM Mode
+0x1457 / 0x1d50 | 0x511a | HXD8 u-boot usbtty CDC ACM Mode
+0x1457 / 0x1d50 | 0x511b | SMDK2440 u-boot usbtty CDC ACM mode
+0x1457 / 0x1d50 | 0x511c | SMDK2443 u-boot usbtty CDC ACM mode
+0x1457 / 0x1d50 | 0x511d | QT2410 u-boot usbtty CDC ACM mode
+0x1457 / 0x1d50 | 0x511e | Reserved
+0x1457 / 0x1d50 | 0x511f | Reserved
+0x1457 / 0x1d50 | 0x5120 | Neo1973/FreeRunner u-boot generic serial Mode
+0x1457 / 0x1d50 | 0x5121 | Neo1973/FreeRunner kernel mass storage (g_storage) Mode
+0x1457 / 0x1d50 | 0x5122 | Neo1973/FreeRunner kernel usbnet (g_ether, RNDIS) Mode
+0x1457 / 0x1d50 | 0x5123 | Neo1973/FreeRunner internal USB Bluetooth CSR4 module
+0x1457 / 0x1d50 | 0x5124 | Neo1973/FreeRunner Bluetooth Device ID service
+0x1457 / 0x1d50 | 0x5125 | TBD *R!*
+0x1457 / 0x1d50 | 0x5126 | TBD *R!*
+0x1d50 | 0x5200-0x52ff | Reserved for use in documentation concerning the configuration of USB buses and devices.
+0x1d50 | 0x5300-0x53ff | [http://rockbox.org/ rockbox: free replacement firmware for digital music players]
+0x1d50 | 0x6000 | [http://ubertooth.sourceforge.net/ Ubertooth Zero]
+0x1d50 | 0x6001 | [http://ubertooth.sourceforge.net/ Ubertooth Zero DFU]
+0x1d50 | 0x6002 | [http://ubertooth.sourceforge.net/ Ubertooth One]
+0x1d50 | 0x6003 | [http://ubertooth.sourceforge.net/ Ubertooth One DFU]
+0x1d50 | 0x6004 | LeoLipo // (Arduino Leonardo clone with LiPo charger)
+0x1d50 | 0x6005 | [http://cccgoe.de/wiki/LED_Flower_S LED Flower S]
+0x1d50 | 0x6006 | [http://cccgoe.de/wiki/LED_Cube LED Cube]
+0x1d50 | 0x6007 | [http://cccgoe.de/wiki/LED_Flower LED Flower]
+0x1d50 | 0x6008 | [https://www.kismetwireless.net/kisbee/ Kisbee 802.15.4 transceiver]
+0x1d50 | 0x6009 | [http://adjacentreality.org/ Adjacent Reality Tracker]
+0x1d50 | 0x600a | [https://github.com/sowbug/avr-programmer AVR Programmer]
+0x1d50 | 0x600b | [https://github.com/sowbug/hypnagogo Hypna Go Go]
+0x1d50 | 0x600c | [https://github.com/Miceuz/CatNip CatNip LPC1343 development board]
+0x1d50 | 0x600d | [http://robotgrrl.com/robobrrd Enhanced RoboBrrd Brain Board]
+0x1d50 | 0x600e | [http://opencores.org/or1k/Ordb2a-ep4ce22 OpenRISC Ordb2a-ep4ce22 development board]
+0x1d50 | 0x600f | [http://paparazzi.enac.fr/wiki/Main_Page Paparazzi Lisa/M (DFU)]
+0x1d50 | 0x6010 | [http://www.openpipe.cc/ OpenPipe: OSHW Bagpipes MIDI controller]
+0x1d50 | 0x6011 | LeoLipo (DFU)
+0x1d50 | 0x6012 | [http://www.ohwr.org/projects/c64cartridge/wiki Universal C64 Cartridge]
+0x1d50 | 0x6013 | [http://www.discferret.com/ DiscFerret magnetic disc analyser (Bootloader)]
+0x1d50 | 0x6014 | [http://www.discferret.com/ DiscFerret magnetic disc analyser // (Active/run)]
+0x1d50 | 0x6015 | [http://smoothieware.org/smoothieboard Smoothieboard]
+0x1d50 | 0x6016 | [http://www.sparkyswidgets.com/Projects/pHInterface.aspx phInterface]
+0x1d50 | 0x6017 | [http://www.blacksphere.co.nz/main/blackmagic Black Magic Debug Probe (DFU)]
+0x1d50 | 0x6018 | [http://www.blacksphere.co.nz/main/blackmagic Black Magic Debug Probe (Application)]
+0x1d50 | 0x6019 | [http://github.com/kliment/reup 4pi 5 axis motion controller]
+0x1d50 | 0x601a | [http://paparazzi.enac.fr/wiki/Main_Page Paparazzi Lisa/M // (Application)]
+0x1d50 | 0x601b | [http://radiokot.ru/circuit/digital/measure/53/ IST-2 chronograph for bullet speeds]
+0x1d50 | 0x601c | [http://epos.lisha.ufsc.br/EPOSMote+II EPOSMote II]
+0x1d50 | 0x601d | [http://toughlog.org/uds18b20 UDS18B20 Temperature Sensor]
+0x1d50 | 0x601e | [https://github.com/kapusy/stm32 5x5 STM32 prototyping board]
+0x1d50 | 0x601f | [http://sites.google.com/site/doynax/µNSF%202012-06-10.tar.gz uNSF] // Portable NSF Player
+0x1d50 | 0x6020 | [http://www.sparetimelabs.com/toad3/ Toad3] // 4 Axis CNC controller
+0x1d50 | 0x6021 | [http://www.alphasphere.com/ AlphaSphere] // USB peripheral music controller
+0x1d50 | 0x6022 | [https://code.google.com/p/lightpack/ LightPack] // monitor light for presence effect strengthening
+0x1d50 | 0x6023 | [https://code.google.com/p/pixel-kit/ Pixelkit] // turn old game controllers into USB HID
+0x1d50 | 0x6024 | [http://www.illucia.com Illucia] // connect computer programs by physical jacks + cables
+0x1d50 | 0x6025 | [http://www.keyglove.net Keyglove] (HID) // Keyboard glove 
+0x1d50 | 0x6026 | [http://www.keyglove.net Keyglove] (USB-Serial) // Keyboard glove
+0x1d50 | 0x6027 | [http://www.key64.org/ Key64 Keyboard]
+0x1d50 | 0x6028 | Teensy 2.0 Development Board [[http://deskthority.net/workshop-f7/split-ergonomic-keyboard-project-t1753.html ErgoDox] keyboard] // ergonomic keyboard
+0x1d50 | 0x6029 | [https://github.com/ErikZalm/Marlin Marlin 2.0 (USB Serial)]
+0x1d50 | 0x602a | [https://github.com/ErikZalm/Marlin Marlin 2.0 (Mass Storage)]
+0x1d50 | 0x602b | [http://www.makestuff.eu/wordpress/?page_id=1400 FPGALink] USB FPGA communication
+0x1d50 | 0x602c | [http://dev.telynishiya.info/?page_id=74 5nes5snes] Nintendo / Supernintendo Controller USB Adapter (5x8)
+0x1d50 | 0x602d | [http://dev.telynishiya.info/?page_id=74 5nes5snes] Nintendo / Supernintendo Controller USB Adapter (4x12)
+0x1d50 | 0x602e | [http://www.flexibity.com/ Flexibity] Open Sensors Toolkit for home and environment monitoring
+0x1d50 | 0x602f | [http://kcopter.blogspot.com K-copter] Open Source multicopter project
+0x1d50 | 0x6030 | [http://www.stanson.ch/index.php?page=proj&proj=USB-oscope USB-oscope] simply DIY USB scope
+0x1d50 | 0x6031 | [http://akb77.com/g/gps/handmake-gsm-gps-tracker-second-edition/ handmade gsm gps tracker]
+0x1d50 | 0x6032 | [https://github.com/nekromant/uisp-schematics ncrmnt.org USB Device]
+0x1d50 | 0x6033 | [https://github.com/frobiac/adnw frobiac / adnw keyboard]
+0x1d50 | 0x6034 | [http://code.google.com/p/tiflomag-ergo-2/ Tiflomag Ergo 2] MP3 player for visually impaired people
+0x1d50 | 0x6035 | [http://3zu.ru/projects/lasertag/wiki FreeLaserTag Gun] game based on IR (Infra Red) toy guns
+0x1d50 | 0x6036 | [http://3zu.ru/projects/lasertag/wiki FreeLaserTag Big Brother] game based on IR (Infra Red) toy guns
+0x1d50 | 0x6037 | [http://3zu.ru/projects/lasertag/wiki FreeLaserTag Node] game based on IR (Infra Red) toy guns
+0x1d50 | 0x6038 | [http://morecatlab.akiba.coocan.jp/morecat_lab/Monaka-e.html Monaka] MIDI-based physical computing platform
+0x1d50 | 0x6039 | [https://github.com/holgero/XFD/wiki XFD] eXtreme Feedback Device for continuous integration
+0x1d50 | 0x603a | [https://github.com/emfcamp/TiLDA TiLDA] badge for emfcamp
+0x1d50 | 0x603b | [http://www.raspiface.com Raspiface] Interface Raspberry Pi with Arduino Leonardo
+0x1d50 | 0x603c | [http://paparazzi.enac.fr/wiki/Main_Page Paparazzi] LPCUSB Bootloader
+0x1d50 | 0x603d | [http://paparazzi.enac.fr/wiki/Main_Page Paparazzi] LPCUSB Serial
+0x1d50 | 0x603e | [http://paparazzi.enac.fr/wiki/Main_Page Paparazzi] LPCUSB Mass Storage
+0x1d50 | 0x603f | [http://morecatlab.akiba.coocan.jp/lab/index.php/2012/08/airguitar/?lang=en airGuitar] USB-MIDI guitar like interface
+0x1d50 | 0x6040 | [http://morecatlab.akiba.coocan.jp/lab/index.php/2012/06/moco2/?lang=en moco] MIDI IN/OUT converter
+0x1d50 | 0x6041 | [http://www.alphasphere.com/ AlphaSphere] - USB peripheral music controller (bootloader)
+0x1d50 | 0x6042 | [http://www.taniwha.com/~paul/dspace.robot Dspace robot controller]
+0x1d50 | 0x6043 | [http://www.ixbt.com/power/device/pc-power.shtml pc-power] PC Power Consumption Registrator
+0x1d50 | 0x6044 | [https://github.com/fabiobaltieri/open-usb-can open-usb-can] Open Source USB CANBUS converter (DFU Mode)
+0x1d50 | 0x6045 | [https://github.com/fabiobaltieri/open-usb-can open-usb-can] Open Source USB CANBUS converter (Normal Mode)
+0x1d50 | 0x6046 | [https://github.com/drrk/minimus-weigand mimus-weigand] AVR-based device to control Weigand Protocol RFID reader
+0x1d50 | 0x6047 | [http://rfcat.googlecode.com RfCat Chronos Dongle]
+0x1d50 | 0x6048 | [http://rfcat.googlecode.com RfCat Dons Dongle]
+0x1d50 | 0x6049 | [http://rfcat.googlecode.com RfCat Chronos Bootloader]
+0x1d50 | 0x604a | [http://rfcat.googlecode.com RfCat Dons Bootloader]
+0x1d50 | 0x604b | [http://greatscottgadgets.com/hackrf HackRF Jawbreaker]
+0x1d50 | 0x604c | [http://www.makible.com/products/makibox-a6-1 Makibox A6]
+0x1d50 | 0x604d | [http://cp3.irmp.ucl.ac.be/projects/paella Paella Pulse height analyzer]
+0x1d50 | 0x604e | [http://tomeko.net/miniscope_v2b/ Miniscope v2b]
+0x1d50 | 0x604f | [http://tomeko.net/miniscope_v2c/ Miniscope v2c]
+0x1d50 | 0x6050 | [http://goodfet.sourceforge.net/ GoodFET]
+0x1d50 | 0x6051 | [http://pinocc.io pinocc.io]
+0x1d50 | 0x6052 | [http://apbteam.org/ APB Team Robotic Development Board]
+0x1d50 | 0x6053 | [git://sukzessiv.net/darkgame.git Darkgame Controller]
+0x1d50 | 0x6054 | [https://github.com/satlab/bluebox Satlab/AAUSAT3 BlueBox]
+0x1d50 | 0x6055 | [https://github.com/rwinscot/OSH/tree/master/RADiuS/DSMA RADiuS USB Dongle with SMA Connector]
+0x1d50 | 0x6056 | [http://sourceforge.net/projects/hidious/ The Glitch]
+0x1d50 | 0x6057 | [http://openpipe.cc/products/midi-usb-shield/ OpenPipe MIDI-USB Shield]
+0x1d50 | 0x6058 | [http://www.kosagi.com/w/index.php?title=Novena_Main_Page Novena USB OTG Port]
+0x1d50 | 0x6059 | [https://github.com/avishorp/xser xser USB-Serial dongle]
+0x1d50 | 0x605a | [https://github.com/mossmann/daisho/tree/master/sw/fpga/common/usb3 Daisho USB test]
+0x1d50 | 0x605b | [https://github.com/mossmann/cc11xx/tree/master/yardstickone RfCat YARD Stick One]
+0x1d50 | 0x605c | [https://github.com/mossmann/cc11xx/tree/master/yardstickone YARD Stick One Bootloader]
+0x1d50 | 0x605d | [http://harizanov.com/wiki/wiki-home/funky-sensor-v2/ Funky Sensor v2]
+0x1d50 | 0x605e | [https://github.com/blinkiverse/DmxAnalogLed Blinkiverse Analog LED Fader]
+0x1d50 | 0x605f | [https://github.com/mdsinstruments/DIPIO Small DIP package Cypress FX2]
+0x1d50 | 0x6060 | [https://github.com/mdsinstruments/DIGIO Data logger using the Cypress FX2]
+0x1d50 | 0x6061 | [http://fabiobaltieri.com/2013/03/22/power-manager/ Power Manager]
+0x1d50 | 0x6062 | [http://www.ohwr.org/projects/wr-cores WhiteRabbit console and USB-Wishbone bridge]
+0x1d50 | 0x6063 | [http://cpcfpga.com/ CPC FPGA]
+0x1d50 | 0x6064 | [http://cpcfpga.com/ CPC FPGA (DFU)]
+0x1d50 | 0x6065 | [http://cpcfpga.com/ CPC FPGA (serial)]
+0x1d50 | 0x6066 | [http://nuand.com Nuand BladeRF]
+0x1d50 | 0x6067 | [https://github.com/thingotron/orbotron_9000 Orbotron 9000 (serial)]
+0x1d50 | 0x6068 | [https://github.com/thingotron/orbotron_9000 Orbotron 9000 (HID)]
+0x1d50 | 0x6069 | [https://github.com/avishorp/xser xser (DFU mode)]
+0x1d50 | 0x606a | [https://github.com/avishorp/xser xser (legacy mode)]
+0x1d50 | 0x606b | [https://github.com/bharrisau/s08-245 S08-245, urJtag compatible firmware for S08JS]
+0x1d50 | 0x606c | [http://blinkytape.com Blinkytape full-color light tape]
+0x1d50 | 0x606d | [https://github.com/synthetos/TinyG TinyG open source motion controller]
+0x1d50 | 0x606e | [http://reefangel.com/download.aspx Reefangel Evolution 1.0]
+0x1d50 | 0x606f | [http://schneidersoft.net/USB2CAN Geschwister Schneider USB to CAN adapter]
+0x1d50 | 0x6070 | [http://openpinballproject.wordpress.com/ Open Pinball Project]
+0x1d50 | 0x6071 | [http://theglitch.sourceforge.net The Glitch HID]
+0x1d50 | 0x6072 | [http://theglitch.sourceforge.net The Glitch Disk]
+0x1d50 | 0x6073 | [http://theglitch.sourceforge.net The Glitch Serial]
+0x1d50 | 0x6074 | [http://theglitch.sourceforge.net The Glitch MIDI]
+0x1d50 | 0x6075 | [http://theglitch.sourceforge.net The Glitch RawHID]
+0x1d50 | 0x6076 | [http://git.qiprog.org/?p=vultureprog.git;a=summary;js=1 Vultureprog BIOS chip programmer]
+0x1d50 | 0x6077 | [https://github.com/moorelogic/PaintDuino PaintDuino]
+0x1d50 | 0x6078 | [http://en.techno-innov.fr/technique_dtplug/ DTplug]
+0x1d50 | 0x6079 | [https://github.com/q-rai/MoodLightUSB Mood Light USB]
+0x1d50 | 0x607a | [https://github.com/scanlime/fadecandy Fadecandy]
+0x1d50 | 0x607b | [https://github.com/dn-electronics/RCDongle RCDongle for IR remote control] 
+0x1d50 | 0x607c | [http://openvizsla.org OpenVizsla USB sniffer/analyzer] 
+0x1d50 | 0x607d | [https://github.com/sprk/core Spark Core Arduino-compatible board with WiFi]
+0x1d50 | 0x607e | [https://github.com/littlewire/Little-Wire OSHUG Wuthering USB multi-tool]
+0x1d50 | 0x607f | [https://github.com/sprk/core Spark Core Arduino-compatible board with WiFi (bootloader)]
+0x1d50 | 0x6080 | [http://cgit.jvnv.net/arcin/ arcin arcade controller]
+0x1d50 | 0x6081 | [https://github.com/Nuand/bladeRF/wiki/Proposal-for-new-FX3-firmware-loading BladeRF bootloader]
+0x1d50 | 0x6082 | [https://github.com/scanlime/fadecandy Facecandy (USB DFU loader)]
+0x1d50 | 0x6083 | [http://www.lightup.io LightUp (bootloader)]
+0x1d50 | 0x6084 | [http://cgit.jvnv.net/arcin/ arcin arcade controller (USB DFU loader)]
+0x1d50 | 0x6085 | [https://github.com/irkit/device IRKit for controlloing home electronics from iOS devices]
+0x1d50 | 0x6086 | [http://onerng.info/ OneRNG entropy device]
+0x1d50 | 0x6087 | [http://blinkinlabs.com/blinkytape Blinkytape (alternate USB endpoint config)]
+0x1d50 | 0x6088 | [https://github.com/m-ou-se/picp picp PIC16F145x based PIC16F145x programmer]
+0x1d50 | 0x6089 | [http://greatscottgadgets.com/hackrf/ HackRF One SDR]
+0x1d50 | 0x608a | [http://bleduino.cc BLEduino (Arduino-compatible BLE (Bluetooth 4.0) development board)]
+0x1d50 | 0x608b | [https://github.com/myriadrf/A2300 Loctronix ASR-2300 SDR/motion sensing module]
+0x1d50 | 0x608c | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x608d | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x608e | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x608f | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6090 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6091 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6092 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6093 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6094 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6095 | [http://sigrok.org/wiki/Fx2lafw Fx2lafw Open Source firmware for FX2 based logic analyzers]
+0x1d50 | 0x6096 | [http://www.lightup.io LightUp (sketch)]
+0x1d50 | 0x6097 | [http://tessel.io/ Tessel JavaScript enabled Microcontroller with built-in WiFi]
+0x1d50 | 0x6098 | [http://www.kickstarter.com/projects/1708444109/rfidler-a-software-defined-rfid-reader-writer-emul RFIDler]
+0x1d50 | 0x6099 | [https://github.com/myriadrf/RASDR RASDR Radio Astronomy SDR Rx Interface]
+0x1d50 | 0x609a | [https://github.com/myriadrf/RASDR RASDR Radio Astronomy SDR Tx Interface]
+0x1d50 | 0x609b | [https://github.com/myriadrf/RASDR RASDR Radio Astronomy SDR Bootloader]
+0x1d50 | 0x609c | [https://github.com/Galvant/antiafk_firmware antiAFK keyboard]
+0x1d50 | 0x609d | [https://code.google.com/p/pic16f1454-bootloader/ PIC16F145x bootloader]
+0x1d50 | 0x609e | [https://github.com/fabule/Clyde Clyde Lamp by Fabule (bootloader)]
+0x1d50 | 0x609f | [https://github.com/fabule/Clyde Clyde Lamp by Fabule (sketch)]
+0x1d50 | 0x60a0 | [http://smoothieware.org/smoothiepanel Smoothiepanel robotic control interface]
+0x1d50 | 0x60a1 | [https://github.com/airspy/host Airspy]
+0x1d50 | 0x60a2 | [http://barebox.org barebox bootloader USB DFU (Device Firmware Upgrade) Mode]
+0x1d50 | 0x60a3 | [https://github.com/Galvant/antiAFK_firmware antiAFK keyboard (bootloader)]
+0x1d50 | 0x60a4 | Papilio Duo (AVR)
+0x1d50 | 0x60a5 | Papilio Duo (FPGA)
+0x1d50 | 0x60a6 | [https://github.com/bvernoux/hydrafw/wiki HydraBus/HydraNFC (bootloader)]
+0x1d50 | 0x60a7 | [https://github.com/bvernoux/hydrafw/wiki HydraBus/HydraNFC]
+0x1d50 | 0x60a8 | reserved
+0x1d50 | 0x60a9 | [https://github.com/blinkinlabs/blinkytile Blinky Light Controller (DFU bootloader)]
+0x1d50 | 0x60aa | [https://github.com/blinkinlabs/blinkytile Blinky Light Controller]
+0x1d50 | 0x60ab | [https://github.com/ManiacalLabs/AllPixel AllPixel USB control for major programmable LED strips]
+0x1d50 | 0x60ac | [http://feaser.com/openblt/doku.php OpenBLT generic microcontroller bootloader ]
+0x1d50 | 0x60ad | [https://github.com/gzip/eagle-usb-gamepad/ Clasic Gamepad USB Adapter (NES)]
+0x1d50 | 0x60ae | [https://github.com/gzip/eagle-usb-gamepad/ Clasic Gamepad USB Adapter (N64)]
+0x1d50 | 0x60af | [https://github.com/gzip/eagle-usb-gamepad/ Clasic Gamepad USB Adapter (DB9)]
+0x1d50 | 0x60b0 | [https://www.facebook.com/watterott.electronic/photos/a.211504945547854.54926.131472890217727/928577840507224 Waterott Arduino based Clock (caterina bootloader) ]
+0x1d50 | 0x60b1 | [https://github.com/felixekman/Drinkbot Drinkbot (processing)]
+0x1d50 | 0x60b2 | [https://github.com/felixekman/Drinkbot Drinkbot (OTG-tablet support)]
+0x1d50 | 0x60b3 | [https://calc.pw/ calc.pw password generator device (standard)]
+0x1d50 | 0x60b4 | [https://calc.pw/ calc.pw password generator device (enhanced)]
+0x1d50 | 0x60b5 | [http://code.timvideos.us/ TimVideos' HDMI2USB (FX2) - Unconfigured device]
+0x1d50 | 0x60b6 | [http://code.timvideos.us/ TimVideos' HDMI2USB (FX2) - Firmware load/upgrade]
+0x1d50 | 0x60b7 | [http://code.timvideos.us/ TimVideos' HDMI2USB (FX2) - HDMI/DVI Capture Device]
+0x1d50 | 0x60b8 | [http://code.timvideos.us/ TimVideos' HDMI2USB (Soft+UTMI) - Unconfigured device]
+0x1d50 | 0x60b9 | [http://code.timvideos.us/ TimVideos' HDMI2USB (Soft+UTMI) - Firmware upgrade]
+0x1d50 | 0x60ba | [http://code.timvideos.us/ TimVideos' HDMI2USB (Soft+UTMI) - HDMI/DVI Capture Device]
+0x1d50 | 0x60bc | [http://www.moonbaseotago.com/cheaprf/programmer1/programmer1.html Simple CC25xx programmer / serial board]
+0x1d50 | 0x60bd | [http://bhoreal.com/ Open Source control interface for multimedia applications]
+0x1d50 | 0x60be | [https://github.com/pixelmatix/aurora Pixelmatix Aurora (bootloader)]
+0x1d50 | 0x60bf | [https://github.com/pixelmatix/aurora Pixelmatix Aurora]
+0x1d50 | 0x60c0 | [https://github.com/thomask77/nucular-keyboard Nucular Keyboard USB-Adapter for older ThinkPad Keyboards]
+0x1d50 | 0x60c1 | [http://brewbit.com BrewBit Model-T pOSHW temperature controller for homebrewers (bootloader)]
+0x1d50 | 0x60c2 | [http://brewbit.com BrewBit Model-T pOSHW temperature controller for homebrewers]
+0x1d50 | 0x60c3 | [http://x-at.github.io/xat/2015/01/13/arduino-board.html X Antenna Tracker arduino board]
+0x1d50 | 0x60c4 | [https://github.com/CANtact/cantact-fw CAN bus USB communication device]
+0x1d50 | 0x60c5 | [https://github.com/74hc595/PIC16F1-USB-Bootloader PIC16F1 USB bootloader]
+0x1d50 | 0x60c6 | [http://altusmetrum.org/USBtrng/ USBtrng hardware random number generator]
+0x1d50 | 0x60c7 | [https://github.com/Zubax/zubax_gnss Zubax GNSS positioning module for light UAV systems]
+0x1d50 | 0x60c8 | [https://github.com/hbekel/xlink Xlink data transfer and control system for Commodore C64]
+0x1d50 | 0x60c9 | [https://github.com/alwynallan/redoubler random number generator]
+0x1d50 | 0x60ca | [https://github.com/DusteDdk/FinalKey FinalKey password manager]
+0x1d50 | 0x60cb | [https://bitbucket.org/abe_k/pterodaq PteroDAQ Data Acquisition on FRDM-KL25Z and future boards]
+0x1d50 | 0x60cc | [https://github.com/papcodientu/LamDiNao LamDiNao]
+0x1d50 | 0x60cd | [https://www.openlighting.org Open Lighting DMX512 / RDM USB widget]
+0x1d50 | 0x60de | [https://wiki.cryptech.is/browser/user/ft/stm32-avalanche-noise Cryptech.is random number generator]
+0x1d50 | 0x60df | [http://hdmi2usb.tv/numato-opsis Numato Opsis HDMI2USB board - unconfigured]
+0x1d50 | 0x60e0 | [http://hdmi2usb.tv/numato-opsis Numato Opsis HDMI2USB board - JTAG Programming Mode]
+0x1d50 | 0x60e1 | [http://hdmi2usb.tv/numato-opsis Numato Opsis HDMI2USB board - User Mode]
+0x1d50 | 0x60e2 | [http://simtrace.osmocom.org Osmocom SIMtrace 2 - DFU loader]
+0x1d50 | 0x60e3 | [http://simtrace.osmocom.org Osmocom SIMtrace 2 - Main Firmware]
+0x1d50 | 0x60e4 | [https://github.com/3DRacers 3D printed racing game - Catalina CDC bootloader]
+0x1d50 | 0x60e5 | [https://github.com/3DRacers 3D printed racing game - Application]
+0x1d50 | 0x60e6 | [https://github.com/greatscottgadgets/greatfet replacement for GoodFET/FaceDancer - GreatFet]
+0x1d50 | 0x60e7 | [https://github.com/greatscottgadgets/greatfet replacement for GoodFET/FaceDancer - GreatFet target]
+0x1d50 | 0x60e8 | [https://hackaday.io/project/8282-alpen-clack Alpen Clack keyboard]
+0x1d50 | 0x60e9 | [http://henning-bekel.de/keyman64 keyman64 keyboard itercepter]
+0x1d50 | 0x60ea | [https://github.com/scanlime/wiggleport/ Wiggleport FPGA-based I/O board]
+0x1d50 | 0x60eb | [https://github.com/HubertD/candleLight  candleLight CAN dongle] [https://github.com/HubertD/candleLight_gsusb firmware]
+0x1d50 | 0x60ec | [https://github.com/T3P3/Duet Duet 3D Printer Controller]
+0x1d50 | 0x60ed | (reserved 2016-07, followup 0x60ec)
+0x1d50 | 0x60ee | (reserved 2016-07, followup 0x60ec)
+0x1d50 | 0x60ef | (reserved 2016-07, followup 0x60ec)
+0x1d50 | 0x60f0 | [http://www.siphec.com/project/UDAD/ UDAD-T1 data aquisition device (boot)]
+0x1d50 | 0x60f1 | [http://www.siphec.com/project/UDAD/ UDAD-T1 data aquisition device]
+0x1d50 | 0x60f2 | [http://www.siphec.com/project/UDAD/ UDAD-T2 data aquisition device (boot)]
+0x1d50 | 0x60f3 | [http://www.siphec.com/project/UDAD/ UDAD-T2 data aquisition device]
+0x1d50 | 0x60f4 | [https://gitlab.com/uniti-arc/ Uniti ARC motor controller]
+0x1d50 | 0x60f5 | [https://github.com/Blinkinlabs/EightByEight EightByEight Blinky Badge (DFU)]
+0x1d50 | 0x60f6 | [https://github.com/Blinkinlabs/EightByEight EightByEight Blinky Badge]
+0x1d50 | 0x60f7 | [http://cgit.jvnv.net/cardio/ cardio NFC/RFID card reader (bootloader)]
+0x1d50 | 0x60f8 | [http://cgit.jvnv.net/cardio/ cardio NFC/RFID card reader]
+0x1d50 | 0x60fc | [https://www.cryptotrust.net/products.html OnlyKey Two-factor Authentication & Password Solution]
+0x1d50  | 0x6100 | [https://github.com/hbekel/overlay64 overlay64 video overlay module]
+0x1d50  | 0x6104 | [http://www.scopefun.com/ ScopeFun open source instrumentation]
+0x1d50  | 0x6108 | [https://myriadrf.org/projects/limesdr/ Myriad-RF LimeSDR-USB]
+0x1d50  | 0x610c | [https://github.com/jaretburkett/MagicKeys Magic Keys (boot)]
+0x1d50  | 0x610d | [https://github.com/jaretburkett/MagicKeys Magic Keys]
+0x1d50  | 0x6110 | reserved for Watterott till January/February 2017
+0x1d50  | 0x6114 | [https://github.com/UA3MQJ/usb-midi-key MIDI key]
+0x1d50  | 0x6118 | [https://github.com/hadess/retro-keyboard Thomson MO5 USB keyboard]
+0x1d50  | 0x611c | [https://github.com/rrevans/ubaboot rrevans ubaboot]
+0x1d50  | 0x6120 | [https://github.com/UltimateHackingKeyboard UltimateHackingKeyboard]
+0x1d50  | 0x6128 | [https://github.com/Zanith/PSoC-Electrochemical-Device Zanith PSoC-Electrochemical-Device 1]
+0x1d50  | 0x612c | [https://github.com/Zanith/PSoC-Electrochemical-Device Zanith PSoC-Electrochemical-Device 2]
+0x1d50  | 0x6130 | [https://github.com/tinyfpga/TinyFPGA-Bootloader TinyFPGA Bootloader]
+0x1d50  |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
+0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
+0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
