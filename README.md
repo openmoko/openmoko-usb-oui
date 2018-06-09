@@ -33,17 +33,16 @@ In order to request a product ID, please send an pull-request to the
 [openmoko-usb-oui](https://github.com/openmoko/openmoko-usb-oui) github
 project.
 
-Please make sure the commitlog message of your pull requests contains
+Please make sure the commit log message of your pull requests contains
 the following details:
 
 * the string "request" somewhere in the subject
-* a name and short description of your usb device project
+* a name and short description of your USB device project
 * the license under which you are releasing the hardware and/or software/firmware of the device
 * a link to the project website and/or source code repository, if any
 * a terse descriptive string for each ID you want, according to the examples below (field#3 in table). This string will show up in tools like `lsusb` etc and should avoid to use "USB" to describe what the device is/does, since those tools are implicitly about USB already. (bad: "USB keyboard", less bad: "Joe's USB-RS232 adapter" (established term in one word), BEST: "ACME1 secure mass storage device, type 512")
-
 * if you (might) need multiple Product IDs, please indicate + explain this at the first message, rather than applying for a second ID later, so we can allocate a contiguous range.
 
-Feel free to also contact us on IRC, #openmoko channel on Freenode.
+If you do not have a github account, do not wish to use it, or have any other question, you can contact us per email at usb-id AT lists.openmoko.org.
 
 **Do not apply before your project is published under a FOSS license!**
