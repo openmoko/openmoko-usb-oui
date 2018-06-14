@@ -268,6 +268,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6130 | [https://github.com/tinyfpga/TinyFPGA-Bootloader TinyFPGA Bootloader]
 0x1d50 | 0x6131 | [https://github.com/nbxmike/PSOC-Console Robot operator console]
 0x1d50 | 0x6132 | [https://github.com/nbxmike/PSOC-Console Robot operator console with PS2]
+0x1d50 | 0x6133 | [https://github.com/NeuroTinker/NeuroBytes_NID/ NeuroBytes Network Interface Device (NID) DFU mode]
+0x1d50 | 0x6134 | [https://github.com/NeuroTinker/NeuroBytes_NID/ NeuroBytes Network Interface Device (NID) normal mode]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
