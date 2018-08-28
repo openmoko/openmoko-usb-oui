@@ -272,10 +272,11 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6131 | [https://github.com/nbxmike/PSOC-Console Robot operator console]
 0x1d50 | 0x6132 | [https://github.com/nbxmike/PSOC-Console Robot operator console with PS2]
 0x1d50 | 0x6133 | [https://github.com/NeuroTinker/NeuroBytes_NID/ NeuroBytes Network Interface Device (NID) DFU mode]
-0x1d50 | 0x6134 | [https://github.com/NeuroTinker/NeuroBytes_NID/ NeuroBytes Ne
+0x1d50 | 0x6134 | [https://github.com/NeuroTinker/NeuroBytes_NID/ NeuroBytes Network Interface Device (NID) normal mode]
 0x1d50 | 0x6135 | [https://github.com/TheiaSpace/ESATOBC Theia Space's ESAT On-Board Computer]
 0x1d50 | 0x6136 | [https://github.com/TheiaSpace/ESATEPS Theia Space's ESAT Electrical Power Subsystem]
 0x1d50 | 0x6137 | [https://github.com/TheiaSpace/ESATADCS Theia Space's ESAT Attitude Determination and Control Subsystem]
+0x1d50 | 0x6138 | reserved for Theia Space's ESAT Communications Subsystem
 0x1d50 | 0x6139 | [https://github.com/ArduPilot/ardupilot/ ArduPilot autopilot]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
