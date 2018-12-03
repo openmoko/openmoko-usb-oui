@@ -281,8 +281,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x613a | [https://github.com/gsteiert/FPGA-helper FPGA-Helper programming communication interface]
 0x1d50 | 0x613b | [https://github.com/MegabytePhreak/scope-footswitch scope-footswitch bootloader mode]
 0x1d50 | 0x613c | [https://github.com/MegabytePhreak/scope-footswitch scope-footswitch]
+0x1d50 | 0x613d | [https://github.com/nanusefue/crocopoi Crocopoi]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
-0x1d50 | 0x613d | [https://github.com/nanusefue/crocopoi Crocopoi]
 
