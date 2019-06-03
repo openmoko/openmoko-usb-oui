@@ -286,6 +286,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x613f | [https://github.com/flummer/geckoboot/ Geckonator Bootloader (target)]
 0x1d50 | 0x6140 | [https://git.osmocom.org/osmo-asf4-dfu/ osmo-ASF4-DFU SAM E5x/D5x USB DFU bootloader]
 0x1d50 | 0x6141 | [https://git.osmocom.org/osmo-ccid-firmware/ sysmocom sysmoOCTSIM]
+0x1d50 | 0x6142 | [https://git.osmocom.org/osmo-small-hardware/tree/clock-generator Osmocom clock generator]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
