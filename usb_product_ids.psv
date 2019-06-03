@@ -235,7 +235,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x60e5 | [https://github.com/3DRacers 3D printed racing game - Application]
 0x1d50 | 0x60e6 | [https://github.com/greatscottgadgets/greatfet replacement for GoodFET/FaceDancer - GreatFet]
 0x1d50 | 0x60e7 | [https://github.com/greatscottgadgets/greatfet replacement for GoodFET/FaceDancer - GreatFet target]
-0x1d50 | 0x60e8 | [https://hackaday.io/project/8282-alpen-clack Alpen Clack keyboard]
+0x1d50 | 0x60e8 | [https://github.com/pewpew-game/hardware-pewpew-standalone-10.2 PewPew Game Console], [https://github.com/adafruit/circuitpython/tree/master/ports/atmel-samd/boards/pewpew10 software]
 0x1d50 | 0x60e9 | [http://henning-bekel.de/keyman64 keyman64 keyboard itercepter]
 0x1d50 | 0x60ea | [https://github.com/scanlime/wiggleport/ Wiggleport FPGA-based I/O board]
 0x1d50 | 0x60eb | [https://github.com/HubertD/candleLight  candleLight CAN dongle] [https://github.com/HubertD/candleLight_gsusb firmware]
