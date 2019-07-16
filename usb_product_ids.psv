@@ -288,6 +288,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6141 | [https://git.osmocom.org/osmo-ccid-firmware/ sysmocom sysmoOCTSIM]
 0x1d50 | 0x6142 | [https://git.osmocom.org/osmo-small-hardware/tree/clock-generator Osmocom clock generator]
 0x1d50 | 0x6143 | [https://git.osmocom.org/osmo-small-hardware/tree/clock-generator Osmocom clock generator (DFU)]
+0x1d50 | 0x6144 | [https://osmocom.org/projects/e1-t1-adapter/wiki/ICE40_E1_USB_interface Osmocom E1 adapter (DFU)]
+0x1d50 | 0x6145 | [https://osmocom.org/projects/e1-t1-adapter/wiki/ICE40_E1_USB_interface Osmocom E1 adapter]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
