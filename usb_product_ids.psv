@@ -294,6 +294,11 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6147 | [https://github.com/smunaut/ice40-playground Generic iCE40 Demo App]
 0x1d50 | 0x6148 | [https://github.com/smunaut/ice40-playground iCEpick (DFU)]
 0x1d50 | 0x6149 | [https://github.com/smunaut/ice40-playground iCEpick]
+0x1d50 | 0x6150 | [https://github.com/esden/bitmagic BitMagic-Basic Logic Analyzer]
+0x1d50 | 0x6151 | [https://github.com/esden/bitmagic BitMagic-One Logic Analyzer]
+0x1d50 | 0x6152 | [https://github.com/esden/bitmagic BitMagic-Plus Logic Analyzer]
+0x1d50 | 0x6153 | [https://github.com/esden/bitmagic BitMagic-Pro Logic Analyzer]
+0x1d50 | 0x6154 | [https://github.com/esden/bitmagic BitMagic Bootloader]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
