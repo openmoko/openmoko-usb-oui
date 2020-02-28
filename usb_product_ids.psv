@@ -297,6 +297,10 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x614a | [https://github.com/Spritetm/hadbadge2019_fpgasoc/ Hackaday Supercon 2019 badge]
 0x1d50 | 0x614b | [https://github.com/Spritetm/hadbadge2019_fpgasoc/ Hackaday Supercon 2019 badge bootloader]
 0x1d50 | 0x614c | [https://github.com/dwtk/dwtk-ice/ dwtk In-Circuit Emulator]
+0x1d50 | 0x6158 | [https://github.com/fibrefly-io/hotaru fibrefly.io "hotaru" Type-C interface]
+0x1d50 | 0x6159 | [https://github.com/fibrefly-io/hotaru fibrefly.io "hotaru" Type-C interface DFU]
+0x1d50 | 0x615a | [https://github.com/fibrefly-io/hotaru fibrefly.io "hotaru" Dual JTAG/SWD and dual serial]
+0x1d50 | 0x615b | [https://github.com/fibrefly-io/hotaru fibrefly.io "hotaru" USB 2.0 hub]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
