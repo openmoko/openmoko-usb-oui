@@ -299,8 +299,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x614c | [https://github.com/dwtk/dwtk-ice/ dwtk In-Circuit Emulator]
 0x1d50 | 0x614d | [https://github.com/notro/gud/wiki Generic USB Display]
 0x1d50 | 0x614e | [https://www.klipper3d.org/ Klipper 3d-Printer Firmware]
-0x1d50 | 0x614f | [https://greatscottgadgets.com/luna/ LUNA USB Multitool]
-0x1d50 | 0x6150 | [https://greatscottgadgets.com/luna/ Apollo FPGA Programmer]
+0x1d50 | 0x615b | [https://greatscottgadgets.com/luna/ LUNA USB Multitool]
+0x1d50 | 0x615c | [https://greatscottgadgets.com/luna/ Apollo FPGA Programmer]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
