@@ -46,3 +46,35 @@ the following details:
 If you do not have a github account, do not wish to use it, or have any other question, you can contact us per email at usb-id AT lists.openmoko.org.
 
 **Do not apply before your project is published under a FOSS license!**
+
+Checklist for a perfect application
+-----------------------------------
+
+Here are a couple of aspects you should complete before applying for a USB PID or IEEE OUI.
+This is what we will look for before being able to grand you the ID.
+
+Regarding hardware:
+
+1. Have a README[.txt|.md] file describing which part is under which license
+    - this will help to quickly identify the project's license, particularly when several licenses are combined, or your are using libraries under other licenses. Also make sure the combination is allowed by the individual licenses.
+2. Include all full text licenses in a LICENSE[.txt] file
+3. Include a copyright notice in the schematic sheet(s), including author and date
+    - this will determine who the copyright holder is, and when the copyright will expire.
+4. Include the license name in the schematic sheet(s)
+    - this becomes important when different license are combined, and parts of the project, or libraries, are under different licenses
+5. Include all schematic symbols and board footprint libraries in the project
+    - without that the project can't be seen as complete. Also ensure their license is compatible.
+6. Export the schematic capture as pdf, and board layout as gerber+NC drill [and other fabrication output] files
+    - not every user can, or wants, to install the EDA suite you are using. This is even more important if in the future this suite stops supporting the current format. If you don't want to mix the fabrication output with the source files, have a general project page pointing to the source files and fabrication output.
+
+Regarding software, firmware, or gateware:
+
+1. Have a README[.txt|.md] file describing which part is under which license
+    - this will help to quickly identify the project's license, particularly when several licenses are combined, or your are using libraries under other licenses. Also make sure the combination is allowed by the individual licenses.
+2. Include all full text licenses in a LICENSE[.txt] file
+3. Ensure the source files have a copyright notice, including author and date
+    - this will determine who the copyright holder is, and when the code will become public domain once the copyright expires
+4. Ensure the source files have a license header. A SPDX-License-Identifier is sufficient.
+    - this becomes important when different license are combined, and parts of the project, or libraries, are under different licenses
+5. Don't request a sub-range to include each individual hardware supporting this software. Use one USB PID and include hardware information in the USB description
+    - our USB PID range is not infinite, and we would like to be able to continue offering PIDs in the future.
