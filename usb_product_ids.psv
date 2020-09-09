@@ -18,6 +18,8 @@ Vendor ID | Product ID | Description
 0x1457 / 0x1d50 | 0x5124 | Neo1973/FreeRunner Bluetooth Device ID service
 0x1457 / 0x1d50 | 0x5125 | TBD *R!*
 0x1457 / 0x1d50 | 0x5126 | TBD *R!*
+0x1d50 | 0x5035 | [https://github.com/jgressmann/supercan D5035-01 SuperCAN]
+0x1d50 | 0x5036 | [https://github.com/jgressmann/supercan D5035-01 SuperCAN (DFU)]
 0x1d50 | 0x5200-0x52ff | Reserved for use in documentation concerning the configuration of USB buses and devices.
 0x1d50 | 0x5300-0x53ff | [http://rockbox.org/ rockbox: free replacement firmware for digital music players]
 0x1d50 | 0x6000 | [http://ubertooth.sourceforge.net/ Ubertooth Zero]
@@ -57,7 +59,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6022 | [https://code.google.com/p/lightpack/ LightPack] // monitor light for presence effect strengthening
 0x1d50 | 0x6023 | [https://code.google.com/p/pixel-kit/ Pixelkit] // turn old game controllers into USB HID
 0x1d50 | 0x6024 | [http://www.illucia.com Illucia] // connect computer programs by physical jacks + cables
-0x1d50 | 0x6025 | [http://www.keyglove.net Keyglove] (HID) // Keyboard glove 
+0x1d50 | 0x6025 | [http://www.keyglove.net Keyglove] (HID) // Keyboard glove
 0x1d50 | 0x6026 | [http://www.keyglove.net Keyglove] (USB-Serial) // Keyboard glove
 0x1d50 | 0x6027 | [http://www.key64.org/ Key64 Keyboard]
 0x1d50 | 0x6028 | Teensy 2.0 Development Board [[http://deskthority.net/workshop-f7/split-ergonomic-keyboard-project-t1753.html ErgoDox] keyboard] // ergonomic keyboard
@@ -143,8 +145,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6078 | [http://en.techno-innov.fr/technique_dtplug/ DTplug]
 0x1d50 | 0x6079 | [https://github.com/q-rai/MoodLightUSB Mood Light USB]
 0x1d50 | 0x607a | [https://github.com/scanlime/fadecandy Fadecandy]
-0x1d50 | 0x607b | [https://github.com/dn-electronics/RCDongle RCDongle for IR remote control] 
-0x1d50 | 0x607c | [http://openvizsla.org OpenVizsla USB sniffer/analyzer] 
+0x1d50 | 0x607b | [https://github.com/dn-electronics/RCDongle RCDongle for IR remote control]
+0x1d50 | 0x607c | [http://openvizsla.org OpenVizsla USB sniffer/analyzer]
 0x1d50 | 0x607d | [https://github.com/sprk/core Spark Core Arduino-compatible board with WiFi]
 0x1d50 | 0x607e | [https://github.com/littlewire/Little-Wire OSHUG Wuthering USB multi-tool]
 0x1d50 | 0x607f | [https://github.com/sprk/core Spark Core Arduino-compatible board with WiFi (bootloader)]
