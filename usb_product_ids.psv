@@ -254,6 +254,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x60f6 | [https://github.com/Blinkinlabs/EightByEight EightByEight Blinky Badge]
 0x1d50 | 0x60f7 | [http://cgit.jvnv.net/cardio/ cardio NFC/RFID card reader (bootloader)]
 0x1d50 | 0x60f8 | [http://cgit.jvnv.net/cardio/ cardio NFC/RFID card reader]
+0x1d50 | 0x60f9 | [https://github.com/sdoira/U96-SVM U96-SVM Stereo Vision Front-end 2.0]
+0x1d50 | 0x60fa | [https://github.com/sdoira/U96-SVM U96-SVM Stereo Vision Front-end 3.0]
 0x1d50 | 0x60fc | [https://www.cryptotrust.net/products.html OnlyKey Two-factor Authentication & Password Solution]
 0x1d50 | 0x6100 | [https://github.com/hbekel/overlay64 overlay64 video overlay module]
 0x1d50 | 0x6104 | [http://www.scopefun.com/ ScopeFun open source instrumentation]
