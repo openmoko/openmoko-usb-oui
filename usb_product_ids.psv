@@ -321,6 +321,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6167 | [https://github.com/TMaxElectronics/MidiStick_Firmware MIDI Compatible tesla coil interrupter]
 0x1d50 | 0x6168 | [https://github.com/TMaxElectronics/MidiStick_Firmware MIDI Compatible tesla coil interrupter]
 0x1d50 | 0x6169 | [https://github.com/TMaxElectronics/MidiStick_Firmware MIDI Compatible tesla coil interrupter]
+0x1d50 | 0x616a | [https://github.com/openinput-fw/openinput openinput Device]
 0x1d50 | 0x616b | [https://git.ni.fr.eu.org/splitty.git/about/ Splitty Ergonomic Keyboard]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
