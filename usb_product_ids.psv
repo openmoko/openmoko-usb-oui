@@ -306,6 +306,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x614f | [https://github.com/Shik-Tech/N32B N32B midi controller]
 0x1d50 | 0x6150 | [https://osmocom.org/projects/e1-t1-adapter/wiki/E1_tracer Osmocom E1 tracer (DFU)]
 0x1d50 | 0x6151 | [https://osmocom.org/projects/e1-t1-adapter/wiki/E1_tracer Osmocom E1 tracer]
+0x1d50 | 0x6159 | [https://github.com/no2fpga/no2muacm Nitro FPGA μACM]
 0x1d50 | 0x615a | [https://github.com/esden/icekeeb iCEKeeb keyboard]
 0x1d50 | 0x615b | [https://greatscottgadgets.com/luna/ LUNA USB Multitool]
 0x1d50 | 0x615c | [https://greatscottgadgets.com/luna/ Apollo FPGA Programmer]
