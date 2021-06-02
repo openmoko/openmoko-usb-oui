@@ -326,6 +326,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x616a | [https://github.com/openinput-fw/openinput openinput Device]
 0x1d50 | 0x616b | [https://git.ni.fr.eu.org/splitty.git/about/ Splitty Ergonomic Keyboard]
 0x1d50 | 0x616c | [https://github.com/TheiaSpace/ESATCOM Theia Space's ESAT Ground Station]
+0x1d50 | 0x616d | [https://git.osmocom.org/simtrace2/ sysmoOCTSIMTEST board using SIMtrace2 firmware]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
