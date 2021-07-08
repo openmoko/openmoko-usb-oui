@@ -306,6 +306,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x614f | [https://github.com/Shik-Tech/N32B N32B midi controller]
 0x1d50 | 0x6150 | [https://osmocom.org/projects/e1-t1-adapter/wiki/E1_tracer Osmocom E1 tracer (DFU)]
 0x1d50 | 0x6151 | [https://osmocom.org/projects/e1-t1-adapter/wiki/E1_tracer Osmocom E1 tracer]
+0x1d50 | 0x6156 | [https://github.com/daglem/reDIP-SID reDIP SID (DFU)]
 0x1d50 | 0x6157 | [https://github.com/ddB0515/nRF52840-BBoard nRF52840-BBoard Bootloader]
 0x1d50 | 0x6158 | [https://github.com/ddB0515/nRF52840-BBoard nRF52840-BBoard Firmware]
 0x1d50 | 0x6159 | [https://github.com/no2fpga/no2muacm Nitro FPGA μACM]
