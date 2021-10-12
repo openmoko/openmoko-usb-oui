@@ -336,6 +336,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x616d | [https://git.osmocom.org/simtrace2/ sysmoOCTSIMTEST board using SIMtrace2 firmware]
 0x1d50 | 0x616e | [https://git.osmocom.org/simtrace2/ ngff-cardem board using SIMtrace2 firmware]
 0x1d50 | 0x616f | [https://github.com/jpconstantineau/BlueMicro833_hardware/ BlueMicro833 Bootloader]
+0x1d50 | 0x6170 | [https://github.com/notro/pico-usb-io-board Raspberry Pi Pico USB I/O Board]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
