@@ -340,6 +340,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6171 | [https://github.com/kkatano/bakeneko-60 A simple 60% keyboard]
 0x1d50 | 0x6172 | [https://github.com/kkatano/bakeneko-65 A simple 65% keyboard]
 0x1d50 | 0x6173 | [https://github.com/kkatano/yugure Yugure 60% WKL keyboard]
+0x1d50 | 0x6174 | [https://github.com/linklayer/cantact-pro-hw CAN bus USB communication device - CANtact Pro schematics] [https://github.com/linklayer/cantact-pro-fw CANtact Pro firmware]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
