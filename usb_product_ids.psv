@@ -20,6 +20,8 @@ Vendor ID | Product ID | Description
 0x1457 / 0x1d50 | 0x5126 | TBD *R!*
 0x1d50 | 0x5035 | [https://github.com/jgressmann/supercan D5035-01 SuperCAN]
 0x1d50 | 0x5036 | [https://github.com/jgressmann/supercan D5035-01 SuperCAN (DFU)]
+0x1d50 | 0x5037 | [https://github.com/jgressmann/sllin D5035-50 slLIN]
+0x1d50 | 0x5038 | [https://github.com/jgressmann/sllin D5035-50 slLIN (DFU)]
 0x1d50 | 0x5200-0x52ff | Reserved for use in documentation concerning the configuration of USB buses and devices.
 0x1d50 | 0x5300-0x53ff | [http://rockbox.org/ rockbox: free replacement firmware for digital music players]
 0x1d50 | 0x6000 | [http://ubertooth.sourceforge.net/ Ubertooth Zero]
