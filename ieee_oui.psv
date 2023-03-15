@@ -15,3 +15,7 @@ First identifier | Last identifier | Date | Purpose
 02-3a-00 | 02-59-ff | 2015-08-10 | [https://github.com/tessel/project Tessel 2 IoT and robotics development platform]
 02-60-00 | 02-7f-ff | 2021-05-22 | [https://github.com/skiselev/isa8_eth ISA 8-Bit Ethernet controller]
 02-80-00 | 02-90-ff | 2021-11-21 | [https://www.apertus.org/axiom AXIOM]
+# ==PHY Model Numbers==
+# PHY Identifiers are composed of 22 bits of a "bit-reversed" OUI, a 6-bit model number, and a 4-bit revision number
+Model | Date | Purpose
+00 | 2023-03-14 | [https://github.com/Forty-Bot/ethernet 100Base-TX Ethernet PHY]
