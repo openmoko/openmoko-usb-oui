@@ -317,7 +317,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6158 | [https://github.com/ddB0515/nRF52840-BBoard nRF52840-BBoard Firmware]
 0x1d50 | 0x6159 | [https://github.com/no2fpga/no2muacm Nitro FPGA μACM]
 0x1d50 | 0x615a | [https://github.com/esden/icekeeb iCEKeeb keyboard]
-0x1d50 | 0x615b | [https://greatscottgadgets.com/luna/ LUNA USB Multitool]
+0x1d50 | 0x615b | [https://greatscottgadgets.com/cynthion/ Great Scott Gadgets Cynthion]
 0x1d50 | 0x615c | [https://greatscottgadgets.com/luna/ Apollo FPGA Programmer]
 0x1d50 | 0x615d | [https://github.com/oskirby/logicbone/ Logicbone DFU Bootloader]
 0x1d50 | 0x615e | [https://zmkfirmware.dev ZMK Firmware]
