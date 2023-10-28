@@ -359,6 +359,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6183 | [https://github.com/sugoku/piuio-pico-brokeIO brokeIO RP2040 (Other)]
 0x1d50 | 0x6184 | [https://github.com/rafaelmartins/b8 b8 USB keypad]
 0x1d50 | 0x6185 | [https://github.com/Turm-Design-Works/ark ark MIDI Controller]
+0x1d50 | 0x6186 | [https://github.com/shurik179/yozh Yozh robot]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
