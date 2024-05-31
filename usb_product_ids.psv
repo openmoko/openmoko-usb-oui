@@ -357,7 +357,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6181 | [https://github.com/sugoku/piuio-pico-brokeIO brokeIO RP2040 (Gamepad)]
 0x1d50 | 0x6182 | [https://github.com/sugoku/piuio-pico-brokeIO brokeIO RP2040 (Keyboard)]
 0x1d50 | 0x6183 | [https://github.com/sugoku/piuio-pico-brokeIO brokeIO RP2040 (Other)]
-0x1d50 | 0x6184 | [https://github.com/rafaelmartins/b8 b8 USB keypad]
+0x1d50 | 0x6184 | [https://github.com/rafaelmartins/octokeyz octokeyz USB macropad]
 0x1d50 | 0x6185 | [https://github.com/Turm-Design-Works/ark ark MIDI Controller]
 0x1d50 | 0x6186 | [https://github.com/shurik179/yozh Yozh robot]
 0x1d50 | 0x6187 | [https://osmocom.org/projects/baseband/wiki/OsmoGTM900 OsmoGTM900]
