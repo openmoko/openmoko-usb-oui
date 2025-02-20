@@ -363,6 +363,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6187 | [https://osmocom.org/projects/baseband/wiki/OsmoGTM900 OsmoGTM900]
 0x1d50 | 0x6188 | [https://github.com/Turm-Design-Works/fub fub MIDI control interface for Foot-SW & Exp-Pedal]
 0x1d50 | 0x6189 | [https://github.com/mutenix-org/firmware-macroboard Mutenix Macroboard for Online Meetings]
+0x1d50 | 0x6191 | [https://github.com/ShadowBlip/UnifiedControllerInputSpec Unified Controller Input Specification]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
