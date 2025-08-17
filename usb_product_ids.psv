@@ -366,6 +366,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6190 | [https://github.com/shrine-maiden-heavy-industries/torii-ila/ Torii HDL Integrated Logic Analyzer (USB Backhaul Interface)]
 0x1d50 | 0x6191 | [https://github.com/xiphonics/picoTracker picoTracker Advance bootloader]
 0x1d50 | 0x6192 | [https://github.com/xiphonics/picoTracker picoTracker Advance]
+0x1d50 | 0x6193 | [https://github.com/mr258876/USBreeze USBreeze PWM Fan & RGB Controller]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
