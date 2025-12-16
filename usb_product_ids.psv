@@ -368,6 +368,9 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x6192 | [https://github.com/xiphonics/picoTracker picoTracker Advance]
 0x1d50 | 0x6194 | [https://github.com/collet-instruments/MIDI2USB-Converter MIDI2USB Converter(MIDI1.0)]
 0x1d50 | 0x6195 | [https://github.com/collet-instruments/MIDI2USB-Converter MIDI2USB Converter(MIDI2.0)]
+0x1d50 | 0x6196 | [https://github.com/baochip/baochip-1x Baochip-1x SoC bootloader]
+0x1d50 | 0x6197 | [https://github.com/baochip/dabao Dabao breakout board for Baochip-1x]
+0x1d50 | 0x6198 | [https://github.com/betrusted-io/xous-core/ Baosec security token]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
