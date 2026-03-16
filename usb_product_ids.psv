@@ -378,6 +378,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x619b | [https://github.com/librekeys/pico-fido2 Generic security key]
 0x1d50 | 0x619c | [https://github.com/mr258876/PRISM-Film-Scanner Project PRISM Film Scanner FIFO Buffer]
 0x1d50 | 0x619d | [https://github.com/mr258876/PRISM-Film-Scanner Project PRISM Film Scanner Control Interface]
+0x1d50 | 0x619e | [https://github.com/coreorbits/gamerpad-hid-core CoreOrbits GamerPad Virtual Gamepad Controller]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
