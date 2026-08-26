@@ -382,5 +382,6 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x619f | [https://github.com/DPRCZ/PasswordVault.git PasswordVault is a lightweight open-source firmware project for the WCH CH552 microcontroller] 
 0x1d50 | 0x61a0 | [https://github.com/amovlgf/PX4-Autopilot/tree/pr/amovlab-flycore-board Amovlab Flycore flight controller]
 0x1d50 |  | 0x1d50 0x???(0/4/8/c) #########- insert next record here -#########'''   *R!*
+0x1d50 | 0x61a1 | [https://github.com/wszy2021/PX4-Autopilot/tree/droneerv1 droneerx6 flight controller]
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
