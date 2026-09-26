@@ -383,6 +383,7 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x61a0 | [https://github.com/amovlgf/PX4-Autopilot/tree/pr/amovlab-flycore-board Amovlab Flycore flight controller]
 0x1d50 | 0x61a3 | [https://github.com/mg-developer/UniversalButtonMatrix Universal Matrix Button v1.0]
 0x1d50 | 0x61a4 | [https://github.com/mg-developer/UniversalButtonMatrix Universal Matrix Button v2.0]
+0x1d50 | 0x61a5 | [https://github.com/wszy2021/PX4-Autopilot/tree/droneerv1 droneerx6 flight controller]
 0x1d50 | 0x???? | #########- insert next record here (sequential) -#########'''   *R!*
 0x1d50 | 0x8085 | [http://madresistor.org/box0/ Box0 (box0-v5) - Free/Open source tool for exploring science and electronics]
 0x1d50 | 0xCC15 | [https://rad1o.badge.events.ccc.de/ rad1o badge for CCC congress 2015]
