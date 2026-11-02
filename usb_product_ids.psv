@@ -381,6 +381,8 @@ Vendor ID | Product ID | Description
 0x1d50 | 0x619e | [https://github.com/coreorbits/gamerpad-hid-core CoreOrbits GamerPad Virtual Gamepad Controller]
 0x1d50 | 0x619f | [https://github.com/DPRCZ/PasswordVault.git PasswordVault is a lightweight open-source firmware project for the WCH CH552 microcontroller] 
 0x1d50 | 0x61a0 | [https://github.com/amovlgf/PX4-Autopilot/tree/pr/amovlab-flycore-board Amovlab Flycore flight controller]
+0x1d50 | 0x61a1 | [https://github.com/openkeyboard-org/OpenDongle OpenDongle 2.4GHz wireless keyboard and mouse receiver]
+0x1d50 | 0x61a2 | [https://github.com/openkeyboard-org/OpenController OpenController 2.4GHz wireless keyboard controller]
 0x1d50 | 0x61a3 | [https://github.com/mg-developer/UniversalButtonMatrix Universal Matrix Button v1.0]
 0x1d50 | 0x61a4 | [https://github.com/mg-developer/UniversalButtonMatrix Universal Matrix Button v2.0]
 0x1d50 | 0x61a5 | [https://github.com/wszy2021/PX4-Autopilot/tree/droneerv1 droneerx6 flight controller]
